@@ -2,9 +2,9 @@
 # -*- coding : utf-8 -*-
 # vim:set shiftwidth=4 tabstop=4 expandtab textwidth=79:
 
-__author__ = u'TROUVERIE Joachim'
-__version__ = u'0.1'
-__appname__ = u'FliKISS'
+__author__ = 'TROUVERIE Joachim'
+__version__ = '0.1'
+__appname__ = 'FliKISS'
 
 from setuptools import setup, find_packages
 

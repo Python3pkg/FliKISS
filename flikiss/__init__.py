@@ -10,7 +10,7 @@
     based on flat files written in Markdown
 """
 
-__author__ = u'TROUVERIE Joachim'
+__author__ = 'TROUVERIE Joachim'
 
 import os
 import os.path as op

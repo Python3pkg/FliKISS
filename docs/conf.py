@@ -44,8 +44,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'FliKISS'
-copyright = u'2015, TROUVERIE Joachim'
+project = 'FliKISS'
+copyright = '2015, TROUVERIE Joachim'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -203,8 +203,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'FliKISS.tex', u'FliKISS Documentation',
-   u'TROUVERIE Joachim', 'manual'),
+  ('index', 'FliKISS.tex', 'FliKISS Documentation',
+   'TROUVERIE Joachim', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -233,8 +233,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'flikiss', u'FliKISS Documentation',
-     [u'TROUVERIE Joachim'], 1)
+    ('index', 'flikiss', 'FliKISS Documentation',
+     ['TROUVERIE Joachim'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -247,8 +247,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'FliKISS', u'FliKISS Documentation',
-   u'TROUVERIE Joachim', 'FliKISS', 'One line description of project.',
+  ('index', 'FliKISS', 'FliKISS Documentation',
+   'TROUVERIE Joachim', 'FliKISS', 'One line description of project.',
    'Miscellaneous'),
 ]
 

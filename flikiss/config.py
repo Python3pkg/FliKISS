@@ -7,7 +7,7 @@
     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 """
 
-__author__ = u'TROUVERIE Joachim'
+__author__ = 'TROUVERIE Joachim'
 
 import os.path as op
 from uuid import uuid4

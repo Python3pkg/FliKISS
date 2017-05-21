@@ -7,7 +7,7 @@
     ~~~~~~~~~~~~~~~~~~~~~~~~~
 """
 
-__author__ = u'TROUVERIE Joachim'
+__author__ = 'TROUVERIE Joachim'
 
 from markdown import markdown
 from markdown.extensions import Extension

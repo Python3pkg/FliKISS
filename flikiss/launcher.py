@@ -6,7 +6,7 @@
     Launcher for FliKISS app
 """
 
-__author__ = u'TROUVERIE Joachim'
+__author__ = 'TROUVERIE Joachim'
 
 import os.path as op
 from argparse import ArgumentParser
@@ -74,7 +74,7 @@ def run():
         # create server
         dispatch = wsgiserver.WSGIPathInfoDispatcher({args.url: app.wsgi_app})
         server = wsgiserver.CherryPyWSGIServer((args.ip, args.port), dispatch)
-        print 'App served on {0}:{1}'.format(args.ip, args.port)
+        print('App served on {0}:{1}'.format(args.ip, args.port))
         server.start()
 
 
